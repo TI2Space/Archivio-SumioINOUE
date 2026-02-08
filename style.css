@@ -1,0 +1,17 @@
+BODY {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt;}
+A {COLOR: #406EA7; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt}
+A.small {COLOR: #406EA7; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 7pt}
+
+.small {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 7pt;}
+.emphasis {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: bold;}
+
+
+A.emphasis {COLOR: #0000FF; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: bold;}
+TD {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt}
+H1 {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold;}
+H2 {COLOR: #808080; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold;}
+
+.navText {COLOR: #FFFFFF; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 10px;}
+.navTextRev {COLOR: #FFFFFF; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 10px;}
+.nav { COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 7pt}
+
